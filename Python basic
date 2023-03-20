@@ -1,0 +1,98 @@
+# print("Hello world")
+
+# Print numbers in reverse order
+
+a = 100
+while a >= 1:
+    print (a)
+    a -= 1
+print("Over")
+
+"""
+print ("Enter value of a: ")
+a = input()
+print ("Enter value of b: ")
+b = input()
+print ("Enter value of c: ")
+c = input()
+x = int(a)
+y = int(b)
+z = int(c)
+
+if (x > y and x > z):
+    print ("x is greatest number")
+elif (y > x and y > z):
+    print ("y is greatest number")
+else:
+    print ("z is greatest number") 
+
+"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
